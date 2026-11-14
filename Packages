@@ -70,19 +70,18 @@ Name: Stheno
 Author: Crassna
 
 Package: com.susu.collection
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Version: 1.0
 Maintainer: SuSu
 Installed-Size: 520
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: debs/com.susu.collection_1.0_iphoneos-arm64e.deb
-Size: 62476
-MD5sum: 3233f043b80a6fadef53a396b3e6c990
-SHA1: d1ebda0b36af9fa9e6742eedbf219cf939ea1801
-SHA256: 138c019fb9a0e969b27b44b4682bdc68da3dbd8630508669e0301f55bacfe383
-SHA512: 9ce7f79422f87eb9b59fd8cfb4f3148f2ac602494069e7288feaafa91355c06deb2af8dfa5e0e391e5ec766d6322ffbeb328466e58256082fe79d3ac9146e3be
+Filename: debs/com.susu.collection_1.0_iphoneos-arm64.deb
+Size: 56464
+MD5sum: eb725e5e4ff8724169efb9b990c98b40
+SHA1: cdd45c5180847e9b2c1efff24369dd8d465df3fe
+SHA256: 02fa72d251e5482adb00380719e415071f1119d42efac62dd8cbe4e90e35ab52
+SHA512: 61272122ea3a380d56f55e77a608c9bc49c2f1b5b2e1b8af2351e69951ba9cd08594bb8a7af93ab3449b4c76474075ecb780107b8d621255f52dee116b26ef26
 Section: 插件
-Description: 日月开关，需要授权使用，苏苏跑外卖去了，此插件仅用于备份！未授权无法使用
+Description: 苏苏的日月开关，备份使用
 Name: SuCollection
 Author: SuSu
