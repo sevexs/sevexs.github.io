@@ -1,7 +1,6 @@
 Package: com.nx.stheno
 Architecture: iphoneos-arm64
 Version: 0.1.12-3~backgroundreuse1+memoryopt1
-Section: Tweaks
 Maintainer: Crassna
 Installed-Size: 2956
 Provides: com.h.sthenokb (= 1.1.2-59), com.nx.stheno.fix (= 0.1.12-3~defaultscache1)
@@ -14,6 +13,7 @@ MD5sum: 0b5664930b440c4533d0da123fff1c8c
 SHA1: d67ab1d911b28742ab07ba2a178eca52d585b34f
 SHA256: 3563c5583f74062afb2281fddaad68dec563cec39fb673807d0e2f8591a5da9c
 SHA512: cffd51de44c99c01fd277e14067a39e7aa3743c72a4c3a0f4d52dca51dc90b41cbb29dd1749aae360e8cffd5788c4609710f04ffc8bfb7d4305262ca7e76d5ed
+Section: Tweaks
 Description: stheno分屏插件，适配16.0-17.3.1。
 Name: Stheno
 Author: Crassna
@@ -21,7 +21,6 @@ Author: Crassna
 Package: com.yuyi.qqaudio
 Architecture: iphoneos-arm64
 Version: 0.1-14+debug
-Section: 余忆的插件
 Maintainer: 余忆
 Installed-Size: 372
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -31,7 +30,7 @@ MD5sum: 9802e86e4b41ed6f89b7affe5078d56b
 SHA1: 6e0fbf44419a7aeda3d2c52a65a466d2bf01ad08
 SHA256: 190135fe6fdafb3f7198adec61fcc718e5d6bea671070a0694ff6f53614d5b2b
 SHA512: 441cd86c463e1eefe528baefd39f357fa4f238810c9d42acab13177578b2abb223b1eef88b640172e06553388e22bdb19f2294eb11acc07931178983608ee7ea
+Section: 余忆的插件
 Description: QQ语音包，提示激活输入QQ：2974245302，使用方法为先用QQ的录音录几秒钟，暂停之后长按即可弹出语音包素材，导入方法跟微信的一样或者用filza到QQ文档目录找到yuyi_audio往里面放解压好的语音包即可
 Name: QQAudio（QQ语音包）
 Author: 余忆
-
