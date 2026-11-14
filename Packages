@@ -85,3 +85,21 @@ Section: 插件
 Description: 苏苏的日月开关，备份使用
 Name: SuCollection
 Author: SuSu
+
+Package: local.amap.twotabs
+Architecture: iphoneos-arm64e
+Version: 1.2
+Maintainer: 祁厅长
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/local.amap.twotabs_1.2_iphoneos-arm64e.deb
+Size: 159008
+MD5sum: c031a64e854a87133cf9f21856c1e7a2
+SHA1: aa6346ecd94f5595e318cf21b26bea1d99082b09
+SHA256: 31816a6cd521dfe9141f61f593dffab161032840abb9863c84243bb28d9b00cc
+SHA512: 9aaec71d415f38b65853783e6d4594364916583a702b83e6dc6d1ce45f8a7545ef4659822e2a24f887e7e22465464528d56143665e7ba19c4751135058137d1d
+Section: 插件
+Description: 人民的高德，不忘初心砥砺前行
+Name: 人民的高德
+Author: 祁厅长
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/rmdgd.png
