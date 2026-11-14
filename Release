@@ -1,0 +1,16 @@
+Origin: 0513源
+Label: 0513源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 0513源
+Support: https://sevexs.github.io/
+Icon: https://sevexs.github.io/CydiaIcon.png
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e  0 Packages
+ 6a88aa04da1ae54923199144ffb9a079  29 Packages.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  0 Packages
+ 170a187364723239d73c873428eb981a2842a89e37ba4ba92e16d1c38257a57e  29 Packages.gz
