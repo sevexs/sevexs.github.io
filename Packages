@@ -15,6 +15,40 @@ Description: QQ语音包，提示激活输入QQ：2974245302，使用方法为�
 Name: QQAudio（QQ语音包）
 Author: 余忆
 
+Package: com.yuyi.screenshot
+Architecture: iphoneos-arm64
+Version: 0.1
+Maintainer: yuyi
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yuyi.screenshot_0.1_iphoneos-arm64.deb
+Size: 19136
+MD5sum: 14cad0dc2f55e6116b8561d2dcd32be1
+SHA1: c694828894cc89b2af4971cc8422f4c36101ef69
+SHA256: b9a2259b9b8cc0361830c24a002a97fde5d14d31da0d65379ab1ad75be3e2f4a
+SHA512: 21c2fa26eb0b0601db0b42e1bd6768d8ca5e26b317ee816f4609daea12c1be5a131164cdfe5aaec663bdf0f0faf6f82556e2f9163783b30e583b8fa2f087190e
+Section: 余忆的插件
+Description: 截图套壳，好像是在QQ聊天记录双指或三指长按设置
+Name: Screenshot
+Author: yuyi
+
+Package: com.hang.zaixian
+Architecture: iphoneos-arm64
+Version: 1.0-1+debug
+Maintainer: 航
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.hang.zaixian_1.0-1_debug_iphoneos-arm64.deb
+Size: 24636
+MD5sum: f12d4991ad5f58fa483f43c47732b2d8
+SHA1: 4fd29a787723898cbdd604b8edb08f09571232ec
+SHA256: 6594b6ca2495c179b3bf0c4d871712cd784a9a6229a0b56c0eb7fe1315c28458
+SHA512: 1a86500a55e51aafa0f07a4daf495963adda44ef4d282e77ea53de9d51b4c5c6e8ee5ef9b102d94163b10d4dc1090b073cc3708d5fa5ecbcdc1e072166433eff
+Section: 插件
+Description: 自用!
+Name: QQ在线模拟
+Author: 航
+
 Package: com.nx.stheno
 Architecture: iphoneos-arm64
 Version: 0.1.12-3~backgroundreuse1+memoryopt1
@@ -34,3 +68,21 @@ Section: 插件
 Description: stheno分屏插件，适配16.0-17.3.1。
 Name: Stheno
 Author: Crassna
+
+Package: com.susu.collection
+Architecture: iphoneos-arm64e
+Version: 1.0
+Maintainer: SuSu
+Installed-Size: 520
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/com.susu.collection_1.0_iphoneos-arm64e.deb
+Size: 62476
+MD5sum: 3233f043b80a6fadef53a396b3e6c990
+SHA1: d1ebda0b36af9fa9e6742eedbf219cf939ea1801
+SHA256: 138c019fb9a0e969b27b44b4682bdc68da3dbd8630508669e0301f55bacfe383
+SHA512: 9ce7f79422f87eb9b59fd8cfb4f3148f2ac602494069e7288feaafa91355c06deb2af8dfa5e0e391e5ec766d6322ffbeb328466e58256082fe79d3ac9146e3be
+Section: 插件
+Description: 日月开关，需要授权使用，苏苏跑外卖去了，此插件仅用于备份！未授权无法使用
+Name: SuCollection
+Author: SuSu
