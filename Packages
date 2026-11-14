@@ -1,3 +1,23 @@
+Package: com.nx.stheno
+Architecture: iphoneos-arm64
+Version: 0.1.12-3~backgroundreuse1+memoryopt1
+Section: Tweaks
+Maintainer: Crassna
+Installed-Size: 2956
+Provides: com.h.sthenokb (= 1.1.2-59), com.nx.stheno.fix (= 0.1.12-3~defaultscache1)
+Depends: dev.theos.orion (>= 1.0.0), mobilesubstrate, firmware (>= 16.0), firmware (<= 17.3.1)
+Conflicts: com.h.sthenokb, com.nx.stheno.fix
+Replaces: com.h.sthenokb, com.nx.stheno.fix
+Filename: debs/com.nx.stheno_0.1.12-3_backgroundreuse1_memoryopt1_iphoneos-arm64.deb
+Size: 541220
+MD5sum: 0b5664930b440c4533d0da123fff1c8c
+SHA1: d67ab1d911b28742ab07ba2a178eca52d585b34f
+SHA256: 3563c5583f74062afb2281fddaad68dec563cec39fb673807d0e2f8591a5da9c
+SHA512: cffd51de44c99c01fd277e14067a39e7aa3743c72a4c3a0f4d52dca51dc90b41cbb29dd1749aae360e8cffd5788c4609710f04ffc8bfb7d4305262ca7e76d5ed
+Description: stheno分屏插件，适配16.0-17.3.1。
+Name: Stheno
+Author: Crassna
+
 Package: com.yuyi.qqaudio
 Architecture: iphoneos-arm64
 Version: 0.1-14+debug
