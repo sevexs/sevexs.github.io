@@ -9,6 +9,13 @@
       "name": "插件",
       "orig": "",
       "pkgs": []
+    },
+    {
+      "name": "航的",
+      "orig": "",
+      "pkgs": [
+        "com.hang.zaixian"
+      ]
     }
   ]
 }
