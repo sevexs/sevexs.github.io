@@ -49,6 +49,24 @@ Description: 自用!
 Name: QQ在线模拟
 Author: 航
 
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.8-5
+Maintainer: be-huge
+Installed-Size: 3360
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.floating-view_1.5.8-5_iphoneos-arm64e.deb
+Size: 1761824
+MD5sum: 6bdcb61c0e1265eaec48267e2355348a
+SHA1: 72eb1ed3dfb8953be3a1eeaa5c0ef5925c2706d4
+SHA256: 43bae3ea3b16915fa1bd26b2ad2e3623853240af80a119c50091aeab6968ed35
+SHA512: 389853b772d236f50c5fd550102da5fdecf8cc3e714425d1892519874fe19e8dd99a68aadf120400277e2d3f5ce2504ac46e53de009bea8c55c2a895accda413
+Section: 插件
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
 Package: com.nx.stheno
 Architecture: iphoneos-arm64
 Version: 0.1.12-3~backgroundreuse1+memoryopt1
