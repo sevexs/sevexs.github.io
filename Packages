@@ -87,6 +87,24 @@ Description: stheno分屏插件，适配16.0-17.3.1。
 Name: Stheno
 Author: Crassna
 
+Package: com.sunshinesong.split-view-pro
+Architecture: iphoneos-arm64
+Version: 1.3.7
+Maintainer: sunshinesong
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: debs/com.sunshinesong.split-view-pro_1.3.7_iphoneos-arm64.deb
+Size: 1537160
+MD5sum: 083d8d7d09e35f98f565bcb4786999fd
+SHA1: c1e8851b4f30f4be1a9b402d87631eda41def71b
+SHA256: ab4b1ba16fc82ef5dbd7dad5fd6a25eb038d4a9e398bbc181ae3015b8df21179
+SHA512: 53d61522ae9811b7a5e28190c0f242335adb324ddf804800ac5bba7a2711524f36a1202c4d491960aab8f4e12792cee503c798ec40330f4ca9ecce7a9fa10b85
+Section: 插件
+Description: 分屏，不必太复杂，一切从简即可。
+Name: split-view-pro
+Author: sunshinesong
+TS: sp-sss
+
 Package: com.susu.collection
 Architecture: iphoneos-arm64
 Version: 1.0
