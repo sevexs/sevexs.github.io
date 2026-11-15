@@ -122,6 +122,39 @@ Description: 苏苏的日月开关，备份使用
 Name: SuCollection
 Author: SuSu
 
+Package: com.yuyi.qqhook
+Architecture: iphoneos-arm64
+Version: 0.2.3
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yuyi.qqhook_0.2.3_iphoneos-arm64.deb
+Size: 8138
+MD5sum: 80905c8658119047d1fbbd222bc995e7
+SHA1: a9fd8eb7e8dc82b020650ffbf964f26bb1157439
+SHA256: 3b289b09f967e734e7506de8350182c6cd53874dfb2f2e5a83b4b0a1cf07934f
+SHA512: c87cef307f9accd5622e278c2e9d5e2f477f7f346c67722b581498cd3d93db0605f526af6028c858cb40cd3a9ae1a48406140f841f035515d582e4a39c3d7e23
+Section: 插件
+Description: QQ部分界面透明
+Name: QQhook
+Author: 余忆
+
+Package: com.yuyi.qqurl
+Architecture: iphoneos-arm64
+Version: 0.0.1-1+debug
+Maintainer: yuyi
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yuyi.qqurl_0.0.1-1_debug_iphoneos-arm64.deb
+Size: 3098
+MD5sum: b29a8c4cac38638d23f7181b23d4c85d
+SHA1: 69245fa82a532593cef9841aee8e6305d77a756d
+SHA256: b523dc550855a7f97d54a2a175657025f1c939bd1fc9d72bd802693655f7ceae
+SHA512: e7365b1c43e2bcad914e99da860a7b91c0205787bf599259d8f87e68e5f8864b469376cb3f347bbf44254ff75ce97c0140fb1b56e38075461233afa6369d646e
+Section: 插件
+Description: QQ外链强开
+Name: qqurl
+Author: yuyi
+
 Package: local.amap.twotabs
 Architecture: iphoneos-arm64e
 Version: 1.2
