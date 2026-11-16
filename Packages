@@ -155,6 +155,24 @@ Description: QQ外链强开
 Name: qqurl
 Author: yuyi
 
+Package: hongguofn
+Architecture: iphoneos-arm64
+Version: 2.2.5
+Maintainer: Junhong
+Installed-Size: 8116
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/hongguofn_2.2.5_iphoneos-arm64.deb
+Size: 3501426
+MD5sum: 278b80237ce3ffa8b2cbaa803eaded57
+SHA1: e81900756b80c907c9d84afca0b0d8bf317886ed
+SHA256: b802aed77d2fdeb7cd53d033e3dbc995f55ba725fbff7348c3b570194fc69e5e
+SHA512: 6cb3505a75eda58620eb8e30075b05b0030b7547ddc919a91c589f1715d90841b90fb6b5193cf18f8c44bce9c23829564d60e2a5f0df0f2457a95633bce8222f
+Homepage: https://hongguo.goforit.si
+Section: 插件
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
+Name: 红果净化
+Author: Junhong
+
 Package: local.amap.twotabs
 Architecture: iphoneos-arm64e
 Version: 1.2
