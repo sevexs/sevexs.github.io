@@ -207,3 +207,21 @@ Description: 人民的高德，不忘初心砥砺前行
 Name: 人民的高德
 Author: 祁厅长
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/rmdgd.png
+
+Package: hongguofn.roothide
+Architecture: iphoneos-arm64e
+Version: 2.2.6
+Maintainer: Junhong
+Installed-Size: 8180
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/红果净化_2.2.6_arm64e.deb
+Size: 3529992
+MD5sum: a4bec2aeb76de989df3fa2a01fe6836a
+SHA1: 79e7a1f9e58b195475fd0629f40f3cc1133467a3
+SHA256: eedb60eb24bb6d0a8160c379110c89e8b84785abf5fd4d7c5eed4e874a959880
+SHA512: 5657efcc66b59e324541370b9726e8ef97f6cfd5adb47a3a0763f04766c4bbec50961457a0a6a6293b2724a633e2c6633aae170788ae32a93c6595700e7c84bc
+Homepage: https://hongguo.goforit.si
+Section: 插件
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
+Name: 红果净化 (Roothide)
+Author: Junhong
