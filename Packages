@@ -67,6 +67,23 @@ Description: 分屏，不必太复杂，一切从简即可。
 Name: floatingView
 Author: be-huge
 
+Package: com.example.noticelisttweak
+Architecture: iphoneos-arm64e
+Version: 1.0.1~test18
+Maintainer: YUE
+Installed-Size: 853
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.example.noticelisttweak_1.0.1_test18_iphoneos-arm64e.deb
+Size: 318490
+MD5sum: 56d81d6ab41565f310739abdcec28cd5
+SHA1: 143944a082c05891c02e8439eef1a78f84e0bd24
+SHA256: 431a4848d839171ba340d6eaf7df2838cbefaf622977254b9b835da90e8b3fcb
+SHA512: 3b698067e457bbe6bc39c2274219f870191d601f11ec8e199d11a7d528634341030de4089ac36ae1429796f1ef6d133f8a7147f7d272b34064cecbbf32aa5c3a
+Section: 插件
+Description: RootHide notification-list, app-icon and banner dust effects; experimental device test.
+Name: 通知消散
+Author: YUE
+
 Package: com.nx.stheno
 Architecture: iphoneos-arm64
 Version: 0.1.12-3~backgroundreuse1+memoryopt1
