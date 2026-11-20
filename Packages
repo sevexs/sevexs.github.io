@@ -1,37 +1,3 @@
-Package: com.yuyi.qqaudio
-Architecture: iphoneos-arm64
-Version: 0.1-14+debug
-Maintainer: 余忆
-Installed-Size: 372
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.yuyi.qqaudio_0.1-14_debug_iphoneos-arm64.deb
-Size: 56660
-MD5sum: 9802e86e4b41ed6f89b7affe5078d56b
-SHA1: 6e0fbf44419a7aeda3d2c52a65a466d2bf01ad08
-SHA256: 190135fe6fdafb3f7198adec61fcc718e5d6bea671070a0694ff6f53614d5b2b
-SHA512: 441cd86c463e1eefe528baefd39f357fa4f238810c9d42acab13177578b2abb223b1eef88b640172e06553388e22bdb19f2294eb11acc07931178983608ee7ea
-Section: 余忆的插件
-Description: QQ语音包，提示激活输入QQ：2974245302，使用方法为先用QQ的录音录几秒钟，暂停之后长按即可弹出语音包素材，导入方法跟微信的一样或者用filza到QQ文档目录找到yuyi_audio往里面放解压好的语音包即可
-Name: QQAudio（QQ语音包）
-Author: 余忆
-
-Package: com.yuyi.screenshot
-Architecture: iphoneos-arm64
-Version: 0.1
-Maintainer: yuyi
-Installed-Size: 208
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.yuyi.screenshot_0.1_iphoneos-arm64.deb
-Size: 19136
-MD5sum: 14cad0dc2f55e6116b8561d2dcd32be1
-SHA1: c694828894cc89b2af4971cc8422f4c36101ef69
-SHA256: b9a2259b9b8cc0361830c24a002a97fde5d14d31da0d65379ab1ad75be3e2f4a
-SHA512: 21c2fa26eb0b0601db0b42e1bd6768d8ca5e26b317ee816f4609daea12c1be5a131164cdfe5aaec663bdf0f0faf6f82556e2f9163783b30e583b8fa2f087190e
-Section: 余忆的插件
-Description: 截图套壳，好像是在QQ聊天记录双指或三指长按设置
-Name: Screenshot
-Author: yuyi
-
 Package: com.0513.hsh
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -42,7 +8,7 @@ MD5sum: 5f93e6ddfca03352bbdb28fce5f113bd
 SHA1: d3464fd255d1fbb59b7c502b57faf1bc0b42acde
 SHA256: 5cd358dbd967907d5c35fc63a6a92dfbb4a13d6bb26c97a14e39b970b7941287
 SHA512: 3e7bcafa72f789e56e0be744c73fc8aedec3e936c90d59b25de8b007a0dea486626ce4ac2182196780c5254c676d734bb9f4d1f8f5a77e229e9c745940b269ec
-Section: 插件
+Section: 广告
 Description: 配合iLife798://scan实现
 Name: 惠生活跳转
 Author: 0513
@@ -57,10 +23,64 @@ MD5sum: e648edb7f562a68a37474358e26dd3a7
 SHA1: 92ba56b5fa8d692d472000feb10d2bac4310594d
 SHA256: 99bf6ca5bb91e045c8bebd9de540e697d1d53a8dcacecc211ebf50c7c2489903
 SHA512: 1b7c0569a01bebee8848e988ad62cef88863ba5fd9cfe1c5747d286d3bb2b7e238021f0a3e5803af72036f3d35ae5c4c0b56ee5200fa85115f604a376915d2e0
-Section: 插件
+Section: 广告
 Description: 乐校通去广告
 Name: 乐校通去广
 Author: 0513
+
+Package: hongguofn
+Architecture: iphoneos-arm64
+Version: 2.2.5
+Maintainer: Junhong
+Installed-Size: 8116
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/hongguofn_2.2.5_iphoneos-arm64.deb
+Size: 3501426
+MD5sum: 278b80237ce3ffa8b2cbaa803eaded57
+SHA1: e81900756b80c907c9d84afca0b0d8bf317886ed
+SHA256: b802aed77d2fdeb7cd53d033e3dbc995f55ba725fbff7348c3b570194fc69e5e
+SHA512: 6cb3505a75eda58620eb8e30075b05b0030b7547ddc919a91c589f1715d90841b90fb6b5193cf18f8c44bce9c23829564d60e2a5f0df0f2457a95633bce8222f
+Homepage: https://hongguo.goforit.si
+Section: 广告
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
+Name: 红果净化
+Author: Junhong
+
+Package: local.amap.twotabs
+Architecture: iphoneos-arm64e
+Version: 1.2
+Maintainer: 祁厅长
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/local.amap.twotabs_1.2_iphoneos-arm64e.deb
+Size: 159008
+MD5sum: c031a64e854a87133cf9f21856c1e7a2
+SHA1: aa6346ecd94f5595e318cf21b26bea1d99082b09
+SHA256: 31816a6cd521dfe9141f61f593dffab161032840abb9863c84243bb28d9b00cc
+SHA512: 9aaec71d415f38b65853783e6d4594364916583a702b83e6dc6d1ce45f8a7545ef4659822e2a24f887e7e22465464528d56143665e7ba19c4751135058137d1d
+Section: 广告
+Description: 人民的高德，不忘初心砥砺前行
+Name: 人民的高德
+Author: 祁厅长
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/rmdgd.png
+
+Package: hongguofn.roothide
+Architecture: iphoneos-arm64e
+Version: 2.2.6
+Maintainer: Junhong
+Installed-Size: 8180
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/红果净化_2.2.6_arm64e.deb
+Size: 3529992
+MD5sum: a4bec2aeb76de989df3fa2a01fe6836a
+SHA1: 79e7a1f9e58b195475fd0629f40f3cc1133467a3
+SHA256: eedb60eb24bb6d0a8160c379110c89e8b84785abf5fd4d7c5eed4e874a959880
+SHA512: 5657efcc66b59e324541370b9726e8ef97f6cfd5adb47a3a0763f04766c4bbec50961457a0a6a6293b2724a633e2c6633aae170788ae32a93c6595700e7c84bc
+Homepage: https://hongguo.goforit.si
+Section: 广告
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
+Name: 红果净化 (Roothide)
+Author: Junhong
 
 Package: com.be-huge.floating-view
 Architecture: iphoneos-arm64e
@@ -186,6 +206,23 @@ Description: 苏苏的日月开关，备份使用
 Name: SuCollection
 Author: SuSu
 
+Package: com.yuyi.qqaudio
+Architecture: iphoneos-arm64
+Version: 0.1-14+debug
+Maintainer: 余忆
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yuyi.qqaudio_0.1-14_debug_iphoneos-arm64.deb
+Size: 56660
+MD5sum: 9802e86e4b41ed6f89b7affe5078d56b
+SHA1: 6e0fbf44419a7aeda3d2c52a65a466d2bf01ad08
+SHA256: 190135fe6fdafb3f7198adec61fcc718e5d6bea671070a0694ff6f53614d5b2b
+SHA512: 441cd86c463e1eefe528baefd39f357fa4f238810c9d42acab13177578b2abb223b1eef88b640172e06553388e22bdb19f2294eb11acc07931178983608ee7ea
+Section: 插件
+Description: QQ语音包，提示激活输入QQ：2974245302，使用方法为先用QQ的录音录几秒钟，暂停之后长按即可弹出语音包素材，导入方法跟微信的一样或者用filza到QQ文档目录找到yuyi_audio往里面放解压好的语音包即可
+Name: QQAudio（QQ语音包）
+Author: 余忆
+
 Package: com.yuyi.qqhook
 Architecture: iphoneos-arm64
 Version: 0.2.3
@@ -219,41 +256,22 @@ Description: QQ外链强开
 Name: qqurl
 Author: yuyi
 
-Package: hongguofn
+Package: com.yuyi.screenshot
 Architecture: iphoneos-arm64
-Version: 2.2.5
-Maintainer: Junhong
-Installed-Size: 8116
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/hongguofn_2.2.5_iphoneos-arm64.deb
-Size: 3501426
-MD5sum: 278b80237ce3ffa8b2cbaa803eaded57
-SHA1: e81900756b80c907c9d84afca0b0d8bf317886ed
-SHA256: b802aed77d2fdeb7cd53d033e3dbc995f55ba725fbff7348c3b570194fc69e5e
-SHA512: 6cb3505a75eda58620eb8e30075b05b0030b7547ddc919a91c589f1715d90841b90fb6b5193cf18f8c44bce9c23829564d60e2a5f0df0f2457a95633bce8222f
-Homepage: https://hongguo.goforit.si
+Version: 0.1
+Maintainer: yuyi
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yuyi.screenshot_0.1_iphoneos-arm64.deb
+Size: 19136
+MD5sum: 14cad0dc2f55e6116b8561d2dcd32be1
+SHA1: c694828894cc89b2af4971cc8422f4c36101ef69
+SHA256: b9a2259b9b8cc0361830c24a002a97fde5d14d31da0d65379ab1ad75be3e2f4a
+SHA512: 21c2fa26eb0b0601db0b42e1bd6768d8ca5e26b317ee816f4609daea12c1be5a131164cdfe5aaec663bdf0f0faf6f82556e2f9163783b30e583b8fa2f087190e
 Section: 插件
-Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
-Name: 红果净化
-Author: Junhong
-
-Package: local.amap.twotabs
-Architecture: iphoneos-arm64e
-Version: 1.2
-Maintainer: 祁厅长
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: debs/local.amap.twotabs_1.2_iphoneos-arm64e.deb
-Size: 159008
-MD5sum: c031a64e854a87133cf9f21856c1e7a2
-SHA1: aa6346ecd94f5595e318cf21b26bea1d99082b09
-SHA256: 31816a6cd521dfe9141f61f593dffab161032840abb9863c84243bb28d9b00cc
-SHA512: 9aaec71d415f38b65853783e6d4594364916583a702b83e6dc6d1ce45f8a7545ef4659822e2a24f887e7e22465464528d56143665e7ba19c4751135058137d1d
-Section: 插件
-Description: 人民的高德，不忘初心砥砺前行
-Name: 人民的高德
-Author: 祁厅长
-Icon: https://qi-ting-zhang.github.io/sileo/images/icon/rmdgd.png
+Description: 截图套壳，好像是在QQ聊天记录双指或三指长按设置
+Name: Screenshot
+Author: yuyi
 
 Package: local.qqallinone.control
 Architecture: iphoneos-arm64
@@ -271,21 +289,3 @@ Description: QQ彩虹糖 1.42 · QQ 增强
 Name: QQ彩虹糖
 Author: Hao
 Icon: file:///var/jb/Library/Application%20Support/QQRainbowCandy/icon.png
-
-Package: hongguofn.roothide
-Architecture: iphoneos-arm64e
-Version: 2.2.6
-Maintainer: Junhong
-Installed-Size: 8180
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/红果净化_2.2.6_arm64e.deb
-Size: 3529992
-MD5sum: a4bec2aeb76de989df3fa2a01fe6836a
-SHA1: 79e7a1f9e58b195475fd0629f40f3cc1133467a3
-SHA256: eedb60eb24bb6d0a8160c379110c89e8b84785abf5fd4d7c5eed4e874a959880
-SHA512: 5657efcc66b59e324541370b9726e8ef97f6cfd5adb47a3a0763f04766c4bbec50961457a0a6a6293b2724a633e2c6633aae170788ae32a93c6595700e7c84bc
-Homepage: https://hongguo.goforit.si
-Section: 插件
-Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
-Name: 红果净化 (Roothide)
-Author: Junhong
