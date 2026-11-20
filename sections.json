@@ -16,6 +16,11 @@
       "pkgs": [
         "com.hang.zaixian"
       ]
+    },
+    {
+      "name": "广告",
+      "orig": "",
+      "pkgs": []
     }
   ]
 }
