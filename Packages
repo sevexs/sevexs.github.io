@@ -32,6 +32,21 @@ Description: 截图套壳，好像是在QQ聊天记录双指或三指长按设�
 Name: Screenshot
 Author: yuyi
 
+Package: com.0513.hsh
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Maintainer: 0513
+Filename: debs/com.0513.hsh_1.0.0_iphoneos-arm64.deb
+Size: 7402
+MD5sum: 5f93e6ddfca03352bbdb28fce5f113bd
+SHA1: d3464fd255d1fbb59b7c502b57faf1bc0b42acde
+SHA256: 5cd358dbd967907d5c35fc63a6a92dfbb4a13d6bb26c97a14e39b970b7941287
+SHA512: 3e7bcafa72f789e56e0be744c73fc8aedec3e936c90d59b25de8b007a0dea486626ce4ac2182196780c5254c676d734bb9f4d1f8f5a77e229e9c745940b269ec
+Section: 插件
+Description: 配合iLife798://scan实现
+Name: 惠生活跳转
+Author: 0513
+
 Package: com.be-huge.floating-view
 Architecture: iphoneos-arm64e
 Version: 1.5.8-5
