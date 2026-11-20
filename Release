@@ -9,8 +9,8 @@ Description: 0513源
 Support: https://sevexs.github.io/
 Icon: https://sevexs.github.io/CydiaIcon.png
 MD5Sum:
- a65f24469e5d57d2fd40a02a288022dc  11248 Packages
- a5ab7d6ba71b19903ee666effb1d51e3  5250 Packages.gz
+ d4abb0f6479dd9f469626d77404fafb4  10719 Packages
+ 9dc204d9265328bbe3d9fb84cfc4980d  5006 Packages.gz
 SHA256:
- 91bab477815cf705f33113e1d4bad76a4c6bb735f40652c91d390085cc46ea32  11248 Packages
- 24bf169151f3a0fd879214415684c8bb86f8385f6094a6d6baad399352c2001a  5250 Packages.gz
+ 3f80a43709e885ad804c0f8874e530fc9f79f90f267b6ed091a9b6a417f006c9  10719 Packages
+ ba57d5ffee3d0dea7369ea3edd1fa40c81f5f6e25af67bedcee702b68cf4eb41  5006 Packages.gz
