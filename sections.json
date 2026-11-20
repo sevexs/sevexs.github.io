@@ -1,26 +1,20 @@
 {
   "sections": [
     {
-      "name": "余忆的插件",
-      "orig": "余忆的插件",
-      "pkgs": []
-    },
-    {
       "name": "插件",
       "orig": "",
       "pkgs": []
     },
     {
-      "name": "航的",
-      "orig": "",
-      "pkgs": [
-        "com.hang.zaixian"
-      ]
-    },
-    {
       "name": "广告",
       "orig": "",
-      "pkgs": []
+      "pkgs": [
+        "com.0513.hsh",
+        "com.0513.lxt",
+        "hongguofn",
+        "local.amap.twotabs",
+        "hongguofn.roothide"
+      ]
     }
   ]
 }
