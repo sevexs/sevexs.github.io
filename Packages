@@ -47,6 +47,21 @@ Description: 配合iLife798://scan实现
 Name: 惠生活跳转
 Author: 0513
 
+Package: com.0513.lxt
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Maintainer: 0513
+Filename: debs/com.0513.lxt_1.0.0_iphoneos-arm64.deb
+Size: 5544
+MD5sum: e648edb7f562a68a37474358e26dd3a7
+SHA1: 92ba56b5fa8d692d472000feb10d2bac4310594d
+SHA256: 99bf6ca5bb91e045c8bebd9de540e697d1d53a8dcacecc211ebf50c7c2489903
+SHA512: 1b7c0569a01bebee8848e988ad62cef88863ba5fd9cfe1c5747d286d3bb2b7e238021f0a3e5803af72036f3d35ae5c4c0b56ee5200fa85115f604a376915d2e0
+Section: 插件
+Description: 乐校通去广告
+Name: 乐校通去广
+Author: 0513
+
 Package: com.be-huge.floating-view
 Architecture: iphoneos-arm64e
 Version: 1.5.8-5
