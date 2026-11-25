@@ -28,24 +28,6 @@ Description: 乐校通去广告
 Name: 乐校通去广
 Author: 0513
 
-Package: hongguofn
-Architecture: iphoneos-arm64
-Version: 2.2.5
-Maintainer: Junhong
-Installed-Size: 8116
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/hongguofn_2.2.5_iphoneos-arm64.deb
-Size: 3501426
-MD5sum: 278b80237ce3ffa8b2cbaa803eaded57
-SHA1: e81900756b80c907c9d84afca0b0d8bf317886ed
-SHA256: b802aed77d2fdeb7cd53d033e3dbc995f55ba725fbff7348c3b570194fc69e5e
-SHA512: 6cb3505a75eda58620eb8e30075b05b0030b7547ddc919a91c589f1715d90841b90fb6b5193cf18f8c44bce9c23829564d60e2a5f0df0f2457a95633bce8222f
-Homepage: https://hongguo.goforit.si
-Section: 广告
-Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
-Name: 红果净化
-Author: Junhong
-
 Package: local.amap.twotabs
 Architecture: iphoneos-arm64e
 Version: 1.2
@@ -63,6 +45,22 @@ Description: 人民的高德，不忘初心砥砺前行
 Name: 人民的高德
 Author: 祁厅长
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/rmdgd.png
+
+Package: hongguofn
+Architecture: iphoneos-arm64
+Version: 2.2.9
+Maintainer: Junhong
+Installed-Size: 15904
+Filename: debs/红果净化_2.2.9_arm64.deb
+Size: 8055998
+MD5sum: c44b82124e7e2acdcb2bfcefc6f20722
+SHA1: b203e7b8e7ddb2d886290128cceb4f9424ee8078
+SHA256: 8410de224d7a580a3675de83e86ae3f72c8403cd5dbd84b2f318433570399706
+SHA512: cfc336e49377dd97243a0ea18cf593f8e7ae9b27340d0a87b3c807dee5cbee211d44bbc9d4fad08b458abfbfcc17daae0e4b2721793589b8c452184443ff32b0
+Section: 广告
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
+Name: 红果净化
+Author: Junhong
 
 Package: com.be-huge.floating-view
 Architecture: iphoneos-arm64e
